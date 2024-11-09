@@ -1,18 +1,18 @@
-🇺🇦 Busthorne is about the study of language, discourse, & intelligent forms.
+Busthorne 🇺🇦 studies language, discourse, & intelligent forms.
 
 ## 🪜 🔨 Open source
 We rely greatly on open source tools, and proud to contribute, too!
 
 | Repository | Description |
 |-|-|
-| [papir][1] | description |
-| [pg_bluerose][2] | description |
-| [simp][3] | description |
-| [vim-simp][4] | description |
+| [papir][1] | Dramaturgy-inspired design system for Svelte |
+| [pg_bluerose][2] | Postgres extension for OpenAI-compatible API's |
+| [simp][3] | A simulating proxy: single point of consumption for text inference providers, Batch API |
+| [vim-simp][4] | Simp cables in Vim scratch buffers |
 
 ## About
 
-At the brink of a revolution in computing, where the promises are ambiguous, and the stakes are high, the looming presence of Large Language Models (LLMs) simply can't be ignored. In our humble opinion, and despite what news organisations would lead you to believe, the future doesn't amount to mere reshuffling or consolidation of the power structures, but brings a transformative spin to a special power of the human mind – computing the knowledge and context that surrounds us. One of the ways people create, compile, share and wield information is by storytelling, and current developments allow our species to transfer this ability onto autonomous systems, creating a revolutionary way of program deployment through a natural language. Come think of it, creating computer programmes was always in it's core a way of telling stories, and today we're simply returning to the old ways. 
+At the brink of a revolution in computing, where the promises are ambiguous, and the stakes are high, the looming presence of Large Language Models (LLMs) simply can't be ignored. In our humble opinion, and despite what news organisations would lead you to believe, the future doesn't amount to mere reshuffling or consolidation of the power structures, but brings a transformative spin to a special power of the human mind – computing the knowledge and context that surrounds us. One of the ways people create, compile, share and wield information is by storytelling, and current developments allow our species to transfer this ability onto autonomous systems, creating a revolutionary way of program deployment through a natural language. Come think of it, creating computer programmes was always in it's core a way of telling stories, and today we're simply returning to the old ways.
 
 In Busthorne, we value the decentralisation it entails. Our approach is inspired by the mastery of putting words into sentences, sentences into meanings, meanings that emerge as a result of following the rules of language games. The way LLMs take part in such games is through dialogue with the user. This conversation doesn't even need to be written by both parties – when using txt2img diffusion models such as Stable Diffusion or Midjourney, the prompt becomes a riddle, untangled both by a model ( it presents a picture based solely on vague description of vibes) and by the user themselves ( seeing the result forces new interpretation of the prompt ).  Such communication warrants collaboration, each actor tries to perform their given role, the language game is thus a play, and interface for back-and-forth exchanges is simply a stage on which it happens.
 
